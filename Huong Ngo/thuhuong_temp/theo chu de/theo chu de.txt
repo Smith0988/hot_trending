@@ -350,20 +350,22 @@ i'm a wolf and will not be afraid
 
 Think Safety First
 GASOLINE ONLY
-240V 3 Phase
+240 Volts Three Phase
+480 Volts Three Phase
 480 Volts
 120 Volts
+240 Volts
 277/480 Volts
 120/240 Volts AC
 240 Volts
-High Voltage
 DIESEL FUEL ONLY
 DIESEL ONLY
 Gasoline FUEL Only
-Gasoline Only
 120/208 Volts
 110 Volts
 Single Phase
+Three Phase
+
 Gasoline! No Smoking
 CAUTION! AUTOMATIC DOOR
 No Guest Access
